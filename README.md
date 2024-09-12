@@ -1,4 +1,4 @@
-# Task Planner Pro
+# Task Planner  
 
 **Task Planner Pro** este o aplicație de gestionare a sarcinilor (to-do list) construită în Python folosind Tkinter pentru interfața grafică și SQLite pentru stocarea datelor. Aplicația permite adăugarea, modificarea și ștergerea sarcinilor, precum și filtrarea acestora pe baza priorității și stării (în curs, finalizată).
 
